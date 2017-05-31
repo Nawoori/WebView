@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RuntimePermission</string>
+    <string name="btn_prev">&lt; </string> <!-- less than -->
+    <string name="btn_next">&gt; </string> <!-- greather than -->
+</resources>
